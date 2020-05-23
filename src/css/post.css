@@ -1,0 +1,42 @@
+.contenu{
+    display: flex;
+    justify-content: space-between;
+   
+     
+  
+  }
+
+  .blogPost{
+    width: auto;
+    height: 100%;
+    margin-left: 10px;
+    background-color: white;
+    
+  }
+  
+  .blogPost p{
+    font-family:  'Crimson Text', serif;;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 1.3rem;
+  }
+ .blogPost h2{
+   color:#565673;
+   font-size: 1.3rem;
+ }
+   .text-center{
+     text-align: center;
+   }
+  
+   .postImageContainer{
+     width: 100%;
+     padding: 4px;
+     /*permet d'ajuster l'image*/
+     box-sizing: border-box;
+   }
+   .postImage{
+   max-width: 100%;
+  height: 550px;
+  width: 100%;
+   }
+  

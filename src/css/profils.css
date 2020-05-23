@@ -1,0 +1,38 @@
+.profil-bloc{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    
+    /* width:  920px; */
+  
+}
+
+.image-comtainer img{
+
+ box-sizing: border-box;
+    max-width: 100%;
+    max-height: 100%;
+}
+.profil-title{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.profil-title  {
+    text-align: center;
+}
+
+span{
+    text-align: center;
+}
+.profil-desci{
+    padding: 20px;
+    letter-spacing:  0.4px;
+    font-size: 1.2rem;
+    margin-bottom: 60px
+}
+
+.profil-container{
+    display: flex;
+    flex-direction: row;
+}

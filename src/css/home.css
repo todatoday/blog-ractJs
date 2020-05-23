@@ -1,0 +1,6 @@
+.home-page{
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+}

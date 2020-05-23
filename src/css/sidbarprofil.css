@@ -1,0 +1,51 @@
+
+
+/* .jok{
+    background-color: red;
+    text-align: center;
+} */
+.sidBar-profil{
+    width:279px;
+    
+    display: flex;
+ 
+    flex-direction: column;
+    
+    
+}
+.sidbar-img-profil img{
+
+    margin-top: 20px;
+    max-height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-left: 30px;
+    border: 1px solid black;
+
+}
+ 
+
+.sid-bar-title{
+ 
+  background-color: whitesmoke;
+  width: 300px;
+  height: 45px;
+  padding-top: 20px;
+ 
+  
+   
+}
+.sid-bar-title a {
+    text-decoration: none;
+    font-size: 1.2rem;
+     
+    
+}
+ 
+.sidebar-profil-title{
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 10px;
+    padding-left: 10px;
+     
+}

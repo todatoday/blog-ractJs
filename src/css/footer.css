@@ -1,0 +1,32 @@
+.footerContainer{
+display: flex;
+flex-direction: row;
+background: linear-gradient(rgba(48, 48, 63, 0.5), rgba(61, 61, 39, 0.5)), url(/../image/person-918986_1280.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+margin-bottom: 0px;
+padding-top: 60px;
+justify-content: center;
+padding-bottom: 20px;
+color: white;
+}
+
+ 
+
+.footer-bloc{
+   
+   text-align: center;
+    padding: 40px;
+   
+}
+.footer-image img{
+    border-radius: 20px;
+   max-height: 200px;
+   max-width: 200px;
+   border: 10px solid whitesmoke;
+    
+}
+.footer-title{
+    padding-top: 35px;
+}

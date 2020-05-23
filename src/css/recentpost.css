@@ -1,0 +1,21 @@
+.recent-post-container{
+    width: 300px;
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #D4DBF5;
+    margin-left:20px ;
+}
+.recent-post-img img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.recent-post-title{
+    color: #0A1747;
+    text-align: center;
+    padding: 10px;
+}
+.recent-posttitle{
+    text-align: center;
+}

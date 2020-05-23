@@ -1,0 +1,149 @@
+.sousNavebar{
+
+  /* background-image:  url(/../image/background-2354151_1920.jpg); */
+  /* background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover; */
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  margin-bottom: 130px;
+}
+
+  
+
+.sou-nav-title{
+  /* background-color: rosybrown;
+  width: 100%; */
+  width: 100%;
+  text-align: center;
+  padding-top: 20px;
+}
+
+
+
+.sou-nav-title h2 {
+ 
+  font-size: 3rem;
+  /* font-weight: normal; */
+  
+}
+
+.fa-angrycreative{
+
+  color: #D97373;
+  font-size: 50px;
+}
+
+
+.addColor{
+  display: flex;
+  flex-direction: row;
+   padding: 10px;
+  justify-content: center;
+  color: white;
+  
+   
+}
+ 
+.color1{
+  padding: 10px;
+  background-color: #F2B999;
+  margin: 10px;
+}
+.color2{
+  padding: 10px;
+  background-color: #59261B;
+  margin: 10px;
+}
+.color3{
+  padding: 10px;
+  background-color: #F22987;
+  margin: 10px;
+}
+.color4{
+  padding: 10px;
+  background-color: #F28705;
+  margin: 10px;
+}
+.color5{
+  padding: 10px;
+  background-color: #D96C94;
+  margin: 10px;
+}
+.color6{
+  padding: 10px;
+  background-color: #F28888;
+  margin: 10px;
+}
+.color7{
+  padding: 10px;
+  background-color: #BFA8AD;
+  margin: 10px;
+}
+.color8{
+  padding: 10px;
+  background-color: #F28D77;
+  margin: 10px;
+}
+
+
+
+/* 
+
+  .linkss li{
+    
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    padding: 20px;
+    font-size: 1.6rem;
+    font-weight: bold;
+    cursor: pointer;
+   
+  }
+  
+  .linkss li:hover{
+    color: rgb(0, 102, 255);
+  }
+  #serach{
+  
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 800px;
+    color:whitesmoke;
+    cursor: pointer;
+    padding-right: 3px;
+    margin-left: 10px;
+  }
+  
+   
+  .linkss {
+    padding-left: 0px;
+    margin-top: 200px;
+ 
+    
+  }
+  
+  .imageLogo{
+    height: 100px;
+  }
+  
+  
+  .search{
+    margin-left: 900px;
+     
+  }
+  
+   .searchInput{
+  
+    transition: width 0.5 ease-in;
+    border: 1px solid #FFC700;
+    border-radius: 3px;
+  
+  } */
+
+  

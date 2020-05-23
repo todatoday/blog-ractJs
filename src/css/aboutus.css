@@ -1,0 +1,55 @@
+.aboutUs{
+  
+    display: flex;
+    flex-direction: row;
+  
+    color: brown;
+    width: 100%;
+    padding-top: 0px;
+}
+
+.aboutUs h1{
+    color: red;
+}
+
+.sidbarProfils-aboutus{
+   
+    background-color: whitesmoke;
+    width: 360px;
+    padding-left: 30px;
+}
+
+.blocProfil{
+    display: flex;
+   
+    height: 500px;
+    padding: 0px;
+    margin-bottom: 100px;
+ 
+    margin-left: 40px;
+}
+
+.bloc-row{
+    display:flex ;
+    flex-direction: column;
+    
+    flex: 1;
+}
+.bloc-row h2{
+    text-align: center;
+    padding-top: 80px;
+}
+.bloc-row p {
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 1.2rem;
+}
+
+.image-bloc{
+   
+   flex: 1;
+}
+.image-bloc img{
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,35 @@
+ .App{
+     /* background-color: #C3C3F49C; */
+     
+ }
+ .page-content{
+     height: 100%;
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-top: 60px;
+     margin-bottom: 100px;
+ 
+     /* margin-bottom: 400px; */
+ }
+.page-content::after{
+    content: "";
+    display: block;
+}
+
+
+
+
+/*souaNav*/
+ 
+
+
+/*Post code*/
+ 
+ /*sidbarImg*/
+
+ 
+
+ /*social media*/
+
+
+ 

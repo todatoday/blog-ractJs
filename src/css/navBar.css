@@ -1,0 +1,47 @@
+.navbar-list{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    justify-content: space-between;
+    height: 100%;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+   
+     
+   }
+   
+   .listNab{
+     display: flex;
+     flex-direction: row;
+   
+   }
+   
+   .listNab li{
+     padding-left: 80px;
+     list-style: none;
+     font-size: 1.1rem;
+   }
+   .socialMedia{
+     display: flex;
+     flex-direction: row;
+    margin-right: 60px;
+     list-style: none;
+     margin-bottom: 10px;
+    
+    
+   
+   }
+   
+   .socialMedia li{
+     padding-left: 10px;
+   
+     color: rgb(7, 11, 248);
+     font-size: 1.5rem;
+     cursor: pointer;
+   }
+   
+   .listNab li:hover{
+     color: rgb(0, 156, 253);
+     cursor: pointer;
+   }
+   

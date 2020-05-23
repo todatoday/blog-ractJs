@@ -1,0 +1,67 @@
+.Last-post{
+   
+  background-color: whitesmoke;
+  width: 350px;
+   text-align: center;
+  padding-top: 20px;
+  height: 100%;
+  
+ } 
+
+.sidBarimg{
+    width: 100%;
+    padding: 7px;
+    box-sizing: border-box;
+  }
+  
+  .sidBarimg img {
+   max-width: 100%;
+   max-height: 100%;
+  } 
+/* 
+.social-mediaa{
+    background-color: red;
+    height: 50px;
+    padding: 10px;
+   
+   } */
+  
+   .Last-post p{
+       padding: 17px;
+   }
+  .lastpost{
+    padding-left: 15px;
+     
+    
+  }
+
+  .postshow{
+    
+    padding-bottom: 0;
+    margin-bottom: 40px;
+  }
+.postshow:hover{
+ 
+  cursor: pointer;
+ 
+}
+
+.lastpost p {
+  padding: 17px;
+}
+ 
+  .lastpost h3{
+    font-size: 1.3rem;
+    margin: 7px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+    margin-right: 10px;
+  }
+  span{
+    color: rgb(150, 134, 134);
+     border-bottom: 1px solid wheat;
+    
+     font-style: italic;
+    font-size: 0.9rem;
+    text-align: center;
+  }
